@@ -1,0 +1,9 @@
+[submodule "Cupping-Form"]
+	path = Cupping-Form-front
+	url = https://github.com/JKTG94/Cupping-Form.git
+[submodule "Cupping-Form-server"]
+	path = Cupping-Form-server
+	url = https://github.com/yenasheep/Cupping-Form-server.git
+[submodule "cupping-form-service"]
+	path = Cupping-Form-recommender
+	url = https://github.com/0xbc614e/cupping-form-service.git
